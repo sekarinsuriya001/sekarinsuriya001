@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Suriya Sekar</h1>
-<h3 align="center">An aspiring java full-stack developer from Cherambadi, The Nilgiris, Tamil Nadu, India</h3>
+<h3 align="center">An emerging java full-stack developer from Cherambadi, The Nilgiris, Tamil Nadu, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekarinsuriya001&label=Profile%20views&color=0e75b6&style=flat" alt="sekarinsuriya001" /> </p>
 
