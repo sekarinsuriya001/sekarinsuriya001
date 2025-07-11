@@ -1,6 +1,4 @@
-<img width="945" height="250" alt="github-header-image (4)" src="https://github.com/user-attachments/assets/a82970d4-0f99-4539-ae64-d60addd2d9ed" />
-
-
+<img width="945" height="250" alt="github-header-image (5)" src="https://github.com/user-attachments/assets/d99b236a-4a1f-4a50-afa8-111e8dfde06c" />
 
 <h1 align="center">Hi 👋, I'm Suriya Sekar</h1>
 <h3 align="center">An emerging java full-stack developer from Cherambadi, The Nilgiris, Tamil Nadu, India</h3>
