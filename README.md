@@ -1,4 +1,5 @@
-<img width="945" height="250" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/77b98e48-eecb-432d-b674-9413c7a8b261" />
+<img width="945" height="250" alt="github-header-image (4)" src="https://github.com/user-attachments/assets/a82970d4-0f99-4539-ae64-d60addd2d9ed" />
+
 
 
 <h1 align="center">Hi 👋, I'm Suriya Sekar</h1>
