@@ -1,10 +1,8 @@
-<img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/5155c0ec-48b3-4577-851b-babfe99a4c19" />
+<img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/ac81323b-1110-437d-abc3-fffbf68695f7" />
 
 
 <h1 align="center">Hi 👋, I'm Suriya Sekar</h1>
 <h3 align="center">An aspiring java full-stack developer from Cherambadi, The Nilgiris, Tamil Nadu, India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sekarinsuriya001&label=Profile%20views&color=0e75b6&style=flat" alt="sekarinsuriya001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sekarinsuriya001" alt="sekarinsuriya001" /></a> </p>
 
