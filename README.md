@@ -43,7 +43,7 @@
   <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
   <img height="40" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
   <img height="40" src="https://imgs.search.brave.com/AYfIhPtRvGht7HXN6gHBrG9qnzYqbCkEUCzfVTVWKMI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL0FwYWNoZS1N/YXZlbi5zdmc" alt="Maven"/>
-  <img height="40" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
+  <img height="40" src="https://images.seeklogo.com/logo-png/44/2/thymeleaf-logo-png_seeklogo-441827.png" alt="Thymeleaf"/>
 </p>
 
 
@@ -52,9 +52,9 @@
 <p>
   <img height="40" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
   <img height="40" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img height="40" src="https://img.icons8.com/color/48/postman.png" alt="Postman"/>
-  <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img height="40" src="https://img.icons8.com/color/48/eclipse.png" alt="Eclipse"/>
+  <img height="40" src="https://images.seeklogo.com/logo-png/41/2/postman-logo-png_seeklogo-412593.png" alt="Postman"/>
+  <img height="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img height="40" src="https://images.seeklogo.com/logo-png/27/2/eclipse-logo-png_seeklogo-273166.png" alt="Eclipse"/>
   <img height="40" src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
   <img height="40" src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/>
 </p>
