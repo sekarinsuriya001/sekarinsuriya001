@@ -42,7 +42,7 @@
   <img height="40" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
   <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
   <img height="40" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" alt="Maven"/>
+  <img height="40" src="https://imgs.search.brave.com/AYfIhPtRvGht7HXN6gHBrG9qnzYqbCkEUCzfVTVWKMI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL0FwYWNoZS1N/YXZlbi5zdmc" alt="Maven"/>
   <img height="40" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
 </p>
 
