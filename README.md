@@ -65,7 +65,8 @@
 <img height="30" src="https://img.shields.io/badge/Laptop-Acer_Aspire_Lite-83B81A?style=for-the-badge&logo=acer&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/RAM-8GB-blue?style=for-the-badge&logo=ram&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Storage-512GB_SSD-yellow?style=for-the-badge&logo=windows&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/Intel-Core_i3_13th_Gen-blue?style=for-the-badge&logo=intel&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/CPU-Intel_Core_i3_13th_Gen-blue?style=for-the-badge&logo=intel&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
 
 ---
 
