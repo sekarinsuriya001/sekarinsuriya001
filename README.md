@@ -1,5 +1,6 @@
 <!-- Header Banner -->
-<img width="100%" src="https://github.com/user-attachments/assets/ac81323b-1110-437d-abc3-fffbf68695f7" alt="github-header-image" />
+<img width="945" height="250" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/4395ac30-5079-4854-8e24-49f20434a6d8" />
+
 
 <h1 align="center">Hi 👋, I'm Suriya Sekar</h1>
 <h3 align="center">An aspiring Java Full Stack Developer from Cherambadi, The Nilgiris, Tamil Nadu, India 🇮🇳</h3>
