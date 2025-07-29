@@ -7,7 +7,7 @@
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🌐 My Portfolio: [Visit Now](https://your-portfolio-link.com)
+- 🌐 My Portfolio: [Visit Now](https://ssportfoliosite.netlify.app/)
 - 🔭 Currently working on Java Spring Boot & React.js Projects
 - 📚 Learning: MongoDB | Docker | Cloud Fundamentals
 - 📫 How to reach me: **sekarinsuriya001@gmail.com**
