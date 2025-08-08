@@ -55,7 +55,6 @@
   <img height="40" src="https://imgs.search.brave.com/SFdvrubba7ecDcYxwgSCnlCPfMc75dRCxGBd7EAcj44/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3MvcC8y/MC9wb3N0bWFuLnN2/Zw" alt="Postman"/>
   <img height="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code"/>
   <img height="40" src="https://imgs.search.brave.com/MZ_9WZYQjIqGJagg1A_foy8qHkIE1Dql0Mmo_YFcWpM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWVjbGlwc2UtbG9n/by1pY29uLWRvd25s/b2FkLWluLXN2Zy1w/bmctZ2lmLWZpbGUt/Zm9ybWF0cy0tdGVj/aG5vbG9neS1zb2Np/YWwtbWVkaWEtY29t/cGFueS12b2wtMi1w/YWNrLWxvZ29zLWlj/b25zLTI5NDQ4NDQu/cG5nP2Y9d2VicCZ3/PTEyOA" alt="Eclipse"/>
-  <img height="40" src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
   <img height="40" src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/>
 </p>
 
